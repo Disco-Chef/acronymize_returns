@@ -14,4 +14,7 @@ def acronymize(sentence)
   return result
 end
 
+
+# run ruby file with `ruby lib/acronymize.rb`
+# run tests with `rspec test.rb`
 p acronymize("working from home")
